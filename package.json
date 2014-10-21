@@ -1,0 +1,11 @@
+{
+    "name": "blogpub",
+    "description": "Blog publishing scripts",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "wordpress": "*",
+	"commander": "*"
+   }
+}
+
